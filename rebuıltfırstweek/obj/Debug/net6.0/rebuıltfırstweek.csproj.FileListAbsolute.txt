@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\bin\Debug\net6.0\rebuıltfırstweek.exe
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\bin\Debug\net6.0\rebuıltfırstweek.deps.json
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\bin\Debug\net6.0\rebuıltfırstweek.runtimeconfig.json
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\bin\Debug\net6.0\rebuıltfırstweek.dll
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\bin\Debug\net6.0\rebuıltfırstweek.pdb
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\rebuıltfırstweek.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\rebuıltfırstweek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\rebuıltfırstweek.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\rebuıltfırstweek.AssemblyInfo.cs
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\rebuıltfırstweek.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\rebuıltfırstweek.dll
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\refint\rebuıltfırstweek.dll
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\rebuıltfırstweek.pdb
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\rebuıltfırstweek.genruntimeconfig.cache
+C:\Users\monster\source\repos\rebuıltfırstweek\rebuıltfırstweek\obj\Debug\net6.0\ref\rebuıltfırstweek.dll
